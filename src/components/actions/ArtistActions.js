@@ -1,0 +1,11 @@
+
+const SET_LOADING = 3;
+const FETCH_COMPLETE = 4;
+const HANDLE_INPUT_CHANGE=5
+
+export {
+
+    SET_LOADING,
+    FETCH_COMPLETE,
+    HANDLE_INPUT_CHANGE
+};
